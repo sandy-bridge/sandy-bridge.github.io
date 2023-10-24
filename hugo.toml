@@ -1,0 +1,4 @@
+baseURL = 'https://sandy-bridge.github.io/'
+languageCode = 'en-gb'
+title = 'Sandy Bridge'
+theme = 'stack'
