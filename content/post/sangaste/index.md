@@ -1,29 +1,13 @@
 ---
-author: sandy-bridge
 categories:
 - Oldies
-- Railway Trip Reports
-- Trips
 date: "2014-01-18T19:44:02Z"
-guid: http://speedbirdrailway.wordpress.com/?p=24
-id: 24
-publicize_google_plus_url:
-- https://plus.google.com/104032026920105366478/posts/eKhNeShq7sq
-tags:
-- estonia
-- rail transport
-- railway
-- speedbird
-- stadler
-- transportation
-- trip report
 title: 'Railway trip in Estonia: Sangaste-Tartu'
-url: /2014/01/18/railway-trip-in-estonia-sangaste-tartu/
 ---
 
 I have just completed my trip from Sangaste to Tartu in the new Stadler DEMU (diesel-electric multiple unit) successfully. The train was pretty good. My train was 2312, a 3-car unit (excluding the PowerPack in the middle). I will provide some pictures below.
 
-[![IMG_0374](http://172.20.0.2:8000/wp-content/uploads/2014/01/img_0374.jpg?w=300)](http://172.20.0.2:8000/wp-content/uploads/2014/01/img_0374.jpg)
+[![IMG_0374](img_0374.jpg)](img_0374.jpg)
 
 A front view of the train in Tartu.
 
