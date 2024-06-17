@@ -51,7 +51,7 @@ Another item worth mentioning is the food service on board the train. While ther
 
 I arrived 30 minutes late into Vilnius, as we were held at a station before Šiauliai. Once we did arrive, I had quite a lot of things to do before heading back. Originally I intended to visit the railway museum on the 3rd floor of the station, but as it closed at 6 I moved on to the next item: Škoda 15Tr trolleybus ride. Few of these articulated Škodas remain in service, however I did receive information from my unnamed source that they are operating on line 7 in peak hours. I managed to see one just outside the station, but had no time to ride it, as I was already due to move on to my next challenge.
 
-{{<img src="20230616_15297771_iOS.jpg">}}
+{{<img src="20230616_152927771_iOS.jpg">}}
 That being the train to the airport. Vilnius airport is served by both trains and buses, yet the train connection is much less frequent. It’s a single track line, non-electrified, with trains no more than once per hour. My train at 18:35 would in fact be the last train to the airport from Vilnius that day. I saw the outside of the airport, based on its architecture it’s more resemblant of a train station. I didn’t have time to wander around for long though, bus 3G would depart in a few minutes back to the city centre.
 
 {{<img src="20230616_154333177_iOS.jpg">}}
