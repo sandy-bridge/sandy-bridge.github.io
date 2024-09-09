@@ -1,0 +1,10 @@
+{{ $imageCdn := .Site.Params.imageCdn }}
+{{ $imageName := .Get "src" }}
+{{ $title := .Get "title" }}
+
+<figure>
+    <img src="{{ $imageCdn }}{{ $imageName }}">
+    {{ with .Get "title" }} 
+    <figcaption>{{ $title }}</figcaption>
+    {{ end }}
+</figure>

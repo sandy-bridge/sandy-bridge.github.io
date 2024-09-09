@@ -1,0 +1,7 @@
+baseURL = 'https://sandybridge.xyz/'
+languageCode = 'en-gb'
+title = 'Sandy Bridge'
+theme = 'stack'
+[params]
+imageCdn = "https://cdn.sandybridge.xyz/"
+

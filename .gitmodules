@@ -1,0 +1,3 @@
+[submodule "themes/stack"]
+	path = themes/stack
+	url = ../../CaiJimmy/hugo-theme-stack
