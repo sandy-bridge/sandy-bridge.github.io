@@ -2,9 +2,8 @@ baseURL = 'https://sandybridge.xyz/'
 languageCode = 'en-gb'
 title = 'Sandy Bridge'
 theme = 'stack'
-[params]
-imageCdn = "https://cdn.sandybridge.xyz/"
+[Params]
+imageCdn="https://cdn.sandybridge.xyz/"
 [Params.Sidebar]
 avatar.src = "https://cdn.sandybridge.xyz/avatar.jpg"
 avatar.local = false
-
