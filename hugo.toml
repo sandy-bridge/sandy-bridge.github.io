@@ -1,9 +1,14 @@
 baseURL = 'https://sandybridge.xyz/'
 languageCode = 'en-gb'
 title = 'Sandy Bridge'
-theme = 'stack'
+theme = ["hugo-embed-pdf-shortcode", 'stack']
+enableInlineShortcodes = true
 [Params]
 imageCdn="https://cdn.sandybridge.xyz/"
 [Params.Sidebar]
 avatar.src = "https://cdn.sandybridge.xyz/avatar.jpg"
 avatar.local = false
+[[headers]]
+for = "/*"
+[headers.values]
+Access-Control-Allow-Origin = "https://cdn.sandybridge.xyz"
